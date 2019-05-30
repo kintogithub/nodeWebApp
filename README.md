@@ -9,7 +9,7 @@
 ---
 
 
-# Quick-Start Guide
+# Quick-Start Guides
 
 - [Installation](#installation)
 - [Development Workflow](#development-workflow)
