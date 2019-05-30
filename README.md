@@ -19,7 +19,7 @@
 - [React Compatibility](#react-compatibility)
 
 
-## Installation
+## Installation!
 
 **1. Clone this repo:**
 
