@@ -72,7 +72,7 @@
     "preact-router": "^2.6.1",
     "promise-polyfill": "^7.0.1",
     "proptypes": "^1.0.0",
-    "serve": "^6.0.0",
+    "serve": "^10.1.2",
     "simplehttp2server": "^2.0.0",
     "superstatic": "^5.0.1"
   },
